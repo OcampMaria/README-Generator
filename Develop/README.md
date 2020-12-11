@@ -1,7 +1,7 @@
-# ReadMe generator
+# README-Generator
 
   ## Description
-  <p>This is a README generator for anyone that would like to use it. It quickly creates a professional README for a new project by prompting questions on the console. This are the technologies used: Node.js, Inquirer npm, Json.</p>
+  <p>description...</p>
 
   ## Table of Contents
   * [Installation](#installation)
@@ -11,19 +11,19 @@
   * [License](#license)
 
   ## Installation
-  <p>To be able to install this project, users can clone this repo, have node.js and npm installed on their local machine.</p>
+  <p>steps:...</p>
 
   ## Usage 
-  <p>Here is an example on how to use the README template:</p>
+  <p>will add later!</p>
   This is a preview of how the Web application Looks Like: 
   ![password generator demo]("relative path")
 
   ## Deployed Application 
-  <p>The link to the published application can be accessed on the following link: 
-  (undefined).</p>
+  The link to the published application can be accessed on the following link: 
+  <iframe src="https://drive.google.com/file/d/1zjAp4xEbreiRQOdMVAfHOtLilFuQVElo/preview" width="640" height="480"></iframe>
 
   ## Credits
-  <p></p>
+  <p>N?A</p>
 
   ## License
   Licensed under the MIT license.
@@ -32,12 +32,13 @@
   <p>undefined</p>
 
   ## Features
-  <p>This README generator includes questions propmting what the title of the project is, how does the project works, who contributed to the project, etc. </p>
+  <p>features:...</p>
 
   ## Contributing
-  <p>To contribute to this README generator you can create a pull request or email me for more questions.</p>
+  <p>guidelines...</p>
 
   - - -
   Copyright &copy; 2020 Maria Ocampo. All Rights Reserved.
   
 
+IT WORKED!! :)

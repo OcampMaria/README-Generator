@@ -23,17 +23,17 @@ function generateMarkdown(data) {
   ![password generator demo]("relative path")
 
   ## Deployed Application 
-  <p>The link to the published application can be accessed on the following link: 
-  (${data.deployed}).</p>
+  The link to the published application can be accessed on the following link: 
+  (${data.deployed}).
 
   ## Credits
-  <p>${data.credits}</p>
+  ${data.credits}
 
   ## License
   Licensed under the MIT license.
 
   ## Badges
-  <p>${data.badges}</p>
+  ${data.badges}
 
   ## Features
   <p>${data.features}</p>
