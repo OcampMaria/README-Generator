@@ -1,7 +1,7 @@
-# Sample README
+# README-Generator
 
   ## Description
-  <p>technologies used include Node.js, Inquirer package, and npm.</p>
+  <p>description...</p>
 
   ## Table of Contents
   * [Installation](#installation)
@@ -14,16 +14,16 @@
 
 
   ## Installation
-  <p>you can clone this repo into your local machine. You will need to have visual studio, node.js, and npm installed on your local machine. </p>
+  <p>steps:...</p>
 
   ## Usage 
-  <p>you will see a sample on how to use this application and will have a link to the video that you can follow. </p>
+  <p>instructions:...</p>
   This is a preview of how the Web application Looks Like: 
   ![password generator demo]("relative path")
 
   ## Deployed Application 
   The link to the published application can be accessed on the following link: 
-  (linked ).
+  (link!).
 
   ## Credits
   N/A
@@ -32,19 +32,15 @@
   Licensed under the MIT license.
 
   ## Badges
-  N/A
+  badges
 
   ## Features
-  <p>will add later</p>
+  <p>features</p>
 
   ## Contributing
-  <p>email me </p>
-
-  ## Tests
-  <p>no tests</p>
-
-  ## Questions
-  <p>Contact me!</p>
+  <p>email:...</p>
 
   - - -
   Copyright &copy; 2020 Maria Ocampo. All Rights Reserved.
+
+It worked!! :)

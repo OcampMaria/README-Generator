@@ -44,6 +44,12 @@ function generateMarkdown(data) {
   ## Contributing
   <p>${data.contributing}</p>
 
+  ## Tests
+  <p>${data.tests}</p>
+
+  ## Questions
+  <p>${data.questions}</p>
+
   - - -
   Copyright &copy; 2020 Maria Ocampo. All Rights Reserved.
 `;}
