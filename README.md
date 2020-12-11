@@ -20,7 +20,6 @@
   ![daily Schedule Application demo](/Assets/README.gif)
  
   ## License
-  (https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
   Licensed under the MIT license.
 
   ## Badges
