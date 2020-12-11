@@ -13,6 +13,9 @@ function generateMarkdown(data) {
   * [Deployed](#deployed)
   * [Credits](#credits)
   * [License](#license)
+  * [Features](#features)
+  * [Contributing](#contributing)
+
 
   ## Installation
   <p>${data.installation}</p>
@@ -43,8 +46,6 @@ function generateMarkdown(data) {
 
   - - -
   Copyright &copy; 2020 Maria Ocampo. All Rights Reserved.
-  
-
 `;}
 
 module.exports = generateMarkdown;

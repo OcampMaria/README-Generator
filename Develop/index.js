@@ -32,8 +32,18 @@ const questions = [
     },
     {
         type: 'input',
+        name: 'deployed',
+        message: 'What is the link to your deployed application?',
+    },
+    {
+        type: 'input',
         name: 'credits',
         message: 'List your collaborators, if any, with links to their GitHub profiles.',
+    },
+    {
+        type: 'input',
+        name: 'badges',
+        message: 'List any badges',
     },
     {
         type: 'input',
