@@ -6,28 +6,26 @@
   ## Table of Contents
   * [Installation](#installation)
   * [Usage](#usage)
-  * [Deployed](#deployed)
-  * [Credits](#credits)
   * [License](#license)
+  * [Badges](#badges)
+  * [Features](#features)
+  * [Contributing](#contributing)
 
   ## Installation
   <p>To be able to install this project, users can clone this repo, have node.js and npm installed on their local machine.</p>
 
   ## Usage 
   <p>Here is an example on how to use the README template:</p>
-  This is a preview of how the Web application Looks Like: 
-  ![password generator demo]("relative path")
+  This is a preview of how the readme generator works: 
 
-  ## Deployed Application 
-  The link to the published application can be accessed on the following link: <iframe src="https://drive.google.com/file/d/1zjAp4xEbreiRQOdMVAfHOtLilFuQVElo/preview" width="640" height="480"></iframe>
-  
+  ![daily Schedule Application demo](/Assets/README.gif)
  
   ## License
   Licensed under the MIT license.
 
   ## Badges
-  <p>undefined</p>
-
+  ![badmath](https://img.shields.io/github/languages/top/nielsenjared/badmath)
+  
   ## Features
   <p>This README generator includes questions propmting what the title of the project is, how does the project works, who contributed to the project, etc. </p>
 
