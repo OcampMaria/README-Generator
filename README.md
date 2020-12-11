@@ -15,17 +15,17 @@
   <p>To be able to install this project, users can clone this repo, have node.js and npm installed on their local machine.</p>
 
   ## Usage 
-  <p>Here is an example on how to use the README template:</p>
-  This is a preview of how the readme generator works: 
-
+  Here is an example on how to use the README template:
+  https://drive.google.com/file/d/1zjAp4xEbreiRQOdMVAfHOtLilFuQVElo/view
   ![daily Schedule Application demo](/Assets/README.gif)
  
   ## License
+  (https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
   Licensed under the MIT license.
 
   ## Badges
-  ![badmath](https://img.shields.io/github/languages/top/nielsenjared/badmath)
-  
+  [![NPM Version](https://img.shields.io/npm/v/npm.svg?style=flat)]()
+  ![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)
   ## Features
   <p>This README generator includes questions propmting what the title of the project is, how does the project works, who contributed to the project, etc. </p>
 
