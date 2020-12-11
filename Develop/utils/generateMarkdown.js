@@ -5,7 +5,7 @@ function generateMarkdown(data) {
   return `# ${data.name}
 
   ## Description
-  <p>${data.description}</p>
+  ${data.description}
 
   ## Table of Contents
   * [Installation](#installation)
@@ -18,10 +18,10 @@ function generateMarkdown(data) {
 
 
   ## Installation
-  <p>${data.installation}</p>
+  ${data.installation}
 
   ## Usage 
-  <p>${data.usage}</p>
+  ${data.usage}
   This is a preview of how the Web application Looks Like: 
   ![password generator demo]("relative path")
 
@@ -39,16 +39,16 @@ function generateMarkdown(data) {
   ${data.badges}
 
   ## Features
-  <p>${data.features}</p>
+  ${data.features}
 
   ## Contributing
-  <p>${data.contributing}</p>
+  ${data.contributing}
 
   ## Tests
   <p>${data.tests}</p>
 
   ## Questions
-  <p>${data.questions}</p>
+  ${data.questions}
 
   - - -
   Copyright &copy; 2020 Maria Ocampo. All Rights Reserved.

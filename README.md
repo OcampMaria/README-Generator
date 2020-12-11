@@ -31,12 +31,13 @@
   ## Badges
   [![NPM Version](https://img.shields.io/npm/v/npm.svg?style=flat)]()
   ![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)
+
   ## Features
   <p>This README generator includes questions propmting what the title of the project is, how does the project works, who contributed to the project, etc. </p>
 
   ## Contributing
   To contribute to this README generator you can create a pull request or email me at mariaocampo0513@gmail.com for more questions.
-
+  
   - - -
   Copyright &copy; 2020 Maria Ocampo. All Rights Reserved.
   

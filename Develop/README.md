@@ -1,7 +1,7 @@
 # Sample README
 
   ## Description
-  <p>technologies used include Node.js, Inquirer package, and npm.</p>
+  command-inline application used to generate a readme file. Technologies used include Node.js, inquirer package, npm. 
 
   ## Table of Contents
   * [Installation](#installation)
@@ -14,37 +14,37 @@
 
 
   ## Installation
-  <p>you can clone this repo into your local machine. You will need to have visual studio, node.js, and npm installed on your local machine. </p>
+  you might need to clone the repo and have node.js installed, as well as inquirer.
 
   ## Usage 
-  <p>you will see a sample on how to use this application and will have a link to the video that you can follow. </p>
+  a linked will be added.
   This is a preview of how the Web application Looks Like: 
   ![password generator demo]("relative path")
 
   ## Deployed Application 
   The link to the published application can be accessed on the following link: 
-  (linked ).
+  (link).
 
   ## Credits
-  N/A
+  none
 
   ## License
   Licensed under the MIT license.
 
   ## Badges
-  N/A
+  none
 
   ## Features
-  <p>will add later</p>
+  features
 
   ## Contributing
-  <p>email me </p>
+  guidelines
 
   ## Tests
-  <p>no tests</p>
+  <p>none</p>
 
   ## Questions
-  <p>Contact me!</p>
+  github, email, comments
 
   - - -
   Copyright &copy; 2020 Maria Ocampo. All Rights Reserved.

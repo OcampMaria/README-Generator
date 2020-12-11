@@ -63,18 +63,9 @@ const questions = [
     {
         type: 'input',
         name: 'questions',
-        message: 'Enter your Github profile and lik to your profile for more info on where to be contacted for questions',
+        message: 'Enter your Github & link to your profile, email, and comments for more info on where to be contacted ',
     },
-    {
-        type: 'input',
-        name: 'questions',
-        message: 'Enter your email where to be contacted for questions',
-    },
-    {
-        type: 'input',
-        name: 'questions',
-        message: 'Write any comments to add on the questions section',
-    },
+    
 ];
 
 // function to write README file
